@@ -1,0 +1,3 @@
+google-cloud-datastore
+ipython
+requests
